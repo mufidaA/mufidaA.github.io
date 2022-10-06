@@ -31,7 +31,7 @@ The initial description of Markdown contained ambiguities and raised unanswered 
 
 
 
-References:
+### References
 
 [*here link to Markdown-Cheatsheet in GitHub*](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
@@ -48,4 +48,4 @@ October 2022
 c1dkmo00@students,oamk.fi
 
 DIN21 | OAMK
-![alt text](https://github.com/mufidaA/mufidaA.github.io/blob/20e3101a7bb8da2e603ec7880faa26f13085912e/media/Toimistokayttoon_Suomeksi-06.png "OAMK Logo")
+<img src="https://github.com/mufidaA/mufidaA.github.io/blob/20e3101a7bb8da2e603ec7880faa26f13085912e/media/Toimistokayttoon_Suomeksi-06.png" alt="OAMK Logo" width="200"/>
