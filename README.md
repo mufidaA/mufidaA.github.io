@@ -22,7 +22,11 @@ The initial description of Markdown contained ambiguities and raised unanswered 
 | course week 2 | Done    | Recheck needed |
 | course week 3 | Done    | Recheck needed |
 | course week 4 | Done    | Recheck needed |
-| course week 5 | Done    | Recheck needed |
+| course week 5 | Done    | verified       |
+| task bundle A | Done    | verified       |
+| task bundle B | Done    | verified       |
+| task bundle C | Done    | verified       |
+
 
 
 
