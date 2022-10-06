@@ -15,16 +15,16 @@ The initial description of Markdown contained ambiguities and raised unanswered 
 
 
 [*here link to Markdown-Cheatsheet in GitHub*](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
-[* click here to see the the course page*](https://tl.oamk.fi/cloudservices).
+[*here to see the the course page*](https://tl.oamk.fi/cloudservices).
 [*here link to Wikipedia*](https://en.wikipedia.org/wiki/Markdown).
 [*here link to Markdown syntax guide on draingfireball*](https://daringfireball.net/projects/markdown/syntax#p).
 
 
-
-[^1]: The cloud service course page
-[^2]: Wikipedia Markdown introduction
-[^3]: Github Markdown documentation
-[^4]: Daringfireball Markdow documentation
+[^1]: My reference.
+[^1]: The cloud service course page.
+[^2]: Wikipedia Markdown introduction.
+[^3]: Github Markdown documentation.
+[^4]: Daringfireball Markdow documentation.
     
 
 © Moufida Dkhili EP Alakulju
