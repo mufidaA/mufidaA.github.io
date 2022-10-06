@@ -1,4 +1,4 @@
-# *My first Markdown Page*
+.# *My first Markdown Page*
 
 
 This page is built as part of the Cloud services course.
@@ -45,7 +45,8 @@ The initial description of Markdown contained ambiguities and raised unanswered 
 
 October 2022
 
-c1dkmo00@students,oamk.fi
+.c1dkmo00@students.oamk.fi
 
 DIN21 | OAMK
+
 <img src="https://github.com/mufidaA/mufidaA.github.io/blob/20e3101a7bb8da2e603ec7880faa26f13085912e/media/Toimistokayttoon_Suomeksi-06.png" alt="OAMK Logo" width="200"/>
