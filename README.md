@@ -15,11 +15,14 @@ The initial description of Markdown contained ambiguities and raised unanswered 
 
 
 
-[^1]: [*The course page*](https://tl.oamk.fi/cloudservices).
+[^1]:
+[*The course page*](https://tl.oamk.fi/cloudservices).
 
-[^2]: [*Wikipedia*](https://en.wikipedia.org/wiki/Markdown).
+[^2]: 
+[*Wikipedia*](https://en.wikipedia.org/wiki/Markdown).
 
-[^3]: [*GitHub*](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+[^3]:
+[*GitHub*](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
     
 
 
