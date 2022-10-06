@@ -14,23 +14,26 @@ Markdown is a lightweight markup language for creating formatted text using a pl
 The initial description of Markdown contained ambiguities and raised unanswered questions, causing implementations to both intentionally and accidentally diverge from the original version. This was addressed in 2014, when long-standing Markdown contributors released CommonMark, an unambiguous specification and test suite for Markdown.
 
 
+[*here link to Markdown-Cheatsheet in GitHub*](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+[* click here to see the the course page*](https://tl.oamk.fi/cloudservices).
+[*here link to Wikipedia*](https://en.wikipedia.org/wiki/Markdown).
+[*here link to Markdown syntax guide on draingfireball*](https://daringfireball.net/projects/markdown/syntax#p).
+
+
 
 [^note]:
     The cloud service course page
-    [* click here to see the the course page*](https://tl.oamk.fi/cloudservices).
+    
 
 [^note]:
     Wikipedia Markdown introduction
-    [*here link to Wikipedia*](https://en.wikipedia.org/wiki/Markdown).
-
+    
 [^note]:
     Github Markdown documentation
-    [*here link to Markdown-Cheatsheet in GitHub*](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
-
+    
 [^note]:
     Daringfireball Markdow documentation
-    [*here link to Markdown syntax guide on draingfireball*](https://daringfireball.net/projects/markdown/syntax#p).
-
+    
 
 © Moufida Dkhili EP Alakulju
 
