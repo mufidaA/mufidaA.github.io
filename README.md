@@ -21,18 +21,10 @@ The initial description of Markdown contained ambiguities and raised unanswered 
 
 
 
-[^note]:
-    The cloud service course page
-    
-
-[^note]:
-    Wikipedia Markdown introduction
-    
-[^note]:
-    Github Markdown documentation
-    
-[^note]:
-    Daringfireball Markdow documentation
+[^1]:  The cloud service course page
+[^2]:  Wikipedia Markdown introduction
+[^3]:  Github Markdown documentation
+[^4]:  Daringfireball Markdow documentation
     
 
 © Moufida Dkhili EP Alakulju
