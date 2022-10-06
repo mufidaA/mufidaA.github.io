@@ -3,7 +3,7 @@
 
 This page is built as part of the Cloud services course.
 
-
+[*here to see the the course page*](https://tl.oamk.fi/cloudservices).
 
 ## let start by telling abit about Markdown
 
@@ -13,19 +13,14 @@ Markdown is a lightweight markup language for creating formatted text using a pl
 
 The initial description of Markdown contained ambiguities and raised unanswered questions, causing implementations to both intentionally and accidentally diverge from the original version. This was addressed in 2014, when long-standing Markdown contributors released CommonMark, an unambiguous specification and test suite for Markdown.
 
-
+References:
 [*here link to Markdown-Cheatsheet in GitHub*](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
-[*here to see the the course page*](https://tl.oamk.fi/cloudservices).
+
 [*here link to Wikipedia*](https://en.wikipedia.org/wiki/Markdown).
+
 [*here link to Markdown syntax guide on draingfireball*](https://daringfireball.net/projects/markdown/syntax#p).
 
 
-[^1]: My reference.
-[^1]: The cloud service course page.
-[^2]: Wikipedia Markdown introduction.
-[^3]: Github Markdown documentation.
-[^4]: Daringfireball Markdow documentation.
-    
 
 © Moufida Dkhili EP Alakulju
 
