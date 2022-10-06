@@ -45,7 +45,7 @@ The initial description of Markdown contained ambiguities and raised unanswered 
 
 October 2022
 
-.c1dkmo00@students.oamk.fi
+c1dkmo00@students.oamk.fi
 
 DIN21 | OAMK
 
