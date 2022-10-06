@@ -1,9 +1,8 @@
 # *My first Markdown Page*
 
 
-This page is designed as part of the Cloud services course.
+This page is built as part of the Cloud services course.
 
-[*Link to the course page*](https://tl.oamk.fi/cloudservices/)
 
 
 ## let start by telling abit about Markdown
@@ -14,6 +13,14 @@ Markdown is a lightweight markup language for creating formatted text using a pl
 
 The initial description of Markdown contained ambiguities and raised unanswered questions, causing implementations to both intentionally and accidentally diverge from the original version. This was addressed in 2014, when long-standing Markdown contributors released CommonMark, an unambiguous specification and test suite for Markdown.
 
+
+
+[^1]: [*The course page*](https://tl.oamk.fi/cloudservices).
+
+[^2]: [*Wikipedia*](https://en.wikipedia.org/wiki/Markdown).
+
+[^3]: [*GitHub*](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+    
 
 
 © Moufida Dkhili EP Alakulju
