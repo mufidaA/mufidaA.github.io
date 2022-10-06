@@ -1,4 +1,4 @@
-.# *My first Markdown Page*
+# *My first Markdown Page*
 
 
 This page is built as part of the Cloud services course.
